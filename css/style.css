@@ -1,0 +1,26 @@
+.carousel-item img {
+    object-fit: cover;
+    height: 400px;
+}
+
+.oswald {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.oswald-light {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.card-size {
+    width: 100px;
+}
